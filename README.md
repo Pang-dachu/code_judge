@@ -1,5 +1,5 @@
 
-# The place where Pandaㅊhu practices coding.   
+# The place where Pandahu practices coding.   
 
 ## 1) Baekjoon Judge.
 ## 2) Programmers.
